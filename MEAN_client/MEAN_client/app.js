@@ -1,4 +1,4 @@
-﻿
+﻿/*main module*/
 var app = angular.module('myNews', []);
 
 app.factory('posts', [function () {
